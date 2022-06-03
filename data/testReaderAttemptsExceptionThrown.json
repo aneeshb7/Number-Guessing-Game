@@ -1,0 +1,20 @@
+{
+  "guesses": [
+    {
+      "guess value": 10,
+      "answer": 50
+
+    },
+    {
+      "guess value": 3,
+      "answer": 50
+    },
+    {
+      "guess value": 34,
+      "answer": 50
+    }
+  ],
+  "attempts remaining": 0,
+  "maximum": 0,
+  "name": "Aneesh's test game"
+}

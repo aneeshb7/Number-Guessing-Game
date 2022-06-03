@@ -1,0 +1,15 @@
+{
+    "attempts remaining": 3,
+    "name": "My game",
+    "maximum": 500,
+    "guesses": [
+        {
+            "answer": 1,
+            "guess value": 15
+        },
+        {
+            "answer": 1,
+            "guess value": 10
+        }
+    ]
+}
